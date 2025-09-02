@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Tokyo Camii",
+    "address": "1-19 Oyamacho, Shibuya-ku, Tokyo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Tokyo_Camii.jpg",
+    "prayerTimes": {
+      "fajr": "05:00",
+      "dhuhr": "12:30",
+      "asr": "15:45",
+      "maghrib": "18:10",
+      "isha": "19:30"
+    },
+    "latitude": 35.6692,
+    "longitude": 139.6800
+  },
+  {
+    "id": 2,
+    "name": "Osaka Mosque",
+    "address": "3-10 Umeda, Kita-ku, Osaka",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Osaka_Mosque.jpg",
+    "prayerTimes": {
+      "fajr": "05:10",
+      "dhuhr": "12:35",
+      "asr": "15:50",
+      "maghrib": "18:15",
+      "isha": "19:40"
+    },
+    "latitude": 34.6784,
+    "longitude": 135.5032
+  }
+]
