@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Tokyo Camii",
     "address": "1-19 Oyamacho, Shibuya-ku, Tokyo",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Tokyo_Camii.jpg",
+    "imageUrl": "https://muntasirahmadnabil.github.io/mosques-data/images/TokyoCamii.jpg",
     "prayerTimes": {
       "fajr": "05:00",
       "dhuhr": "12:30",
@@ -18,7 +18,7 @@
     "id": 2,
     "name": "Osaka Mosque",
     "address": "3-10 Umeda, Kita-ku, Osaka",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Osaka_Mosque.jpg",
+    "imageUrl": "https://muntasirahmadnabil.github.io/mosques-data/images/Osaka.jpg",
     "prayerTimes": {
       "fajr": "05:10",
       "dhuhr": "12:35",
